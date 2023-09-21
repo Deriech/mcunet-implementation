@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "gennn.h": "c",
+        "geninclude.h": "c",
+        "float.h": "c",
+        "tinyengine_function.h": "c",
+        "tinyengine_function_fp.h": "c"
+    }
+}
